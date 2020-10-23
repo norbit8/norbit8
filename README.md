@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at the Hebrew University.
 - 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence .
-- ☕ &nbsp; Drinks at least 2 cups of coffee everyday.
+- ☕ &nbsp; Having at least 2 cups of coffee everyday.
 
 <h3>🛠 Tech </h3>
 
