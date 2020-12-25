@@ -3,10 +3,10 @@
 
 <h3>👨🏼‍💻 About Me 💻</h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Explore new technologies and developing software solutions and quick hacks.
 - 👨🏼‍🎓 &nbsp; Studying Computer Science at the Hebrew University.
 - 🧙🏼‍♂️ &nbsp; Enthusiast in AI and Cyber Security.
-- ☕ &nbsp; Having at least 2 cups of coffee everyday.
+- ☕ &nbsp; Have at least 2 cups of coffee everyday.
 - 🏃🏼‍♂️ &nbsp; I love running outside.
 
 <h3>🛠 Technicals 🛠</h3>
