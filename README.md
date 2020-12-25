@@ -3,7 +3,7 @@
 
 <h3>👨🏼‍💻 About Me 💻</h3>
 
-- 🤔 &nbsp; Explore new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Explore new technologies and develope software solutions and quick hacks.
 - 👨🏼‍🎓 &nbsp; Studying Computer Science at the Hebrew University.
 - 🧙🏼‍♂️ &nbsp; Enthusiast in AI and Cyber Security.
 - ☕ &nbsp; Have at least 2 cups of coffee everyday.
