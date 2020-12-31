@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explore new technologies and develop software solutions and hacks.
 - 👨🏼‍🎓 &nbsp; Studying Computer Science at the Hebrew University.
-- 🧙🏼‍♂️ &nbsp; Enthusiast in AI and Cyber Security.
+- 🧙🏼‍♂️ &nbsp; Enthusiastic about Artificial Intelligence and Cyber Security.
 - ☕ &nbsp; Have at least 2 cups of coffee everyday.
 - 🏃🏼‍♂️ &nbsp; I love running outside.
 
