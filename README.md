@@ -10,6 +10,7 @@
 
 <h3>🛠 Technicals 🛠</h3>
 Programming languages:
+
 - 🔧 &nbsp; Python | RoR | C++ | Html | Javascript | Bash
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norbit8&layout=compact&text_color=daf7dc&bg_color=151515)]()
