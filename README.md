@@ -3,16 +3,14 @@
 
 <h3>👨🏼‍💻 About Me 💻</h3>
 
-- 🤔 &nbsp; Explore new technologies and develop software solutions and hacks.
+- 🤔 &nbsp; Explore new technologies and develop software.
 - 👨🏼‍🎓 &nbsp; Studying Computer Science at the Hebrew University.
 - 🧙🏼‍♂️ &nbsp; Enthusiastic about Artificial Intelligence and Cyber Security.
-- ☕ &nbsp; Have at least 2 cups of coffee everyday.
-- 🏃🏼‍♂️ &nbsp; I love running outside.
+- ☕ &nbsp; Coffee lover.
 
 <h3>🛠 Technicals 🛠</h3>
-
-- 💻 &nbsp; Razer Blade stealth 2016 13" 
-- 🔧 &nbsp; Python | C++ | Html | Javascript | Bash
+Programming languages:
+- 🔧 &nbsp; Python | RoR | C++ | Html | Javascript | Bash
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norbit8&layout=compact&text_color=daf7dc&bg_color=151515)]()
 
