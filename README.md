@@ -4,7 +4,7 @@
 <h3>👨🏼‍💻 About Me 💻</h3>
 
 - 🤔 &nbsp; Explore new technologies and develop software.
-- 👨🏼‍🎓 &nbsp; Studying Computer Science at the Hebrew University.
+- 👨🏼‍🎓 &nbsp; Holding a BSc of Computer Science from the Hebrew University of Jerusalem.
 - 🧙🏼‍♂️ &nbsp; Enthusiastic about Artificial Intelligence and Cyber Security.
 - ☕ &nbsp; Coffee lover.
 
