@@ -13,9 +13,6 @@ Programming languages:
 
 - 🔧 &nbsp; Python | RoR | C++ | Golang | Javascript | Bash
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norbit8&layout=compact&text_color=daf7dc&bg_color=151515)]()
-
-
 <h3> 🤝 Connect with me 🤝 </h3>
 
 <p align="center">
