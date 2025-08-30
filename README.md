@@ -1,6 +1,6 @@
 <h2> Hey! I'm Yoav <img src="https://github.com/norbit8/norbit8/blob/master/hello.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/norbit8/norbit8/blob/master/coding.gif" width="500"/>
-![](https://komarev.com/ghpvc/?username=norbit8&color=dc143c)
+![profile](https://komarev.com/ghpvc/?username=norbit8&color=dc143c)
 <h3>👨🏼‍💻 About Me 💻</h3>
 
 - 🤔 &nbsp; Explore new technologies and develop software.
